@@ -1,8 +1,8 @@
-📊 Online Retail Data Analysis
-📌 Project Overview
+# Online Retail Data Analysis
+## Project Overview
 This project analyzes an online retail dataset containing transaction records of products purchased by customers across different countries. The aim is to explore sales patterns, customer behavior, and product performance using data analysis techniques.
 
-🎯 Objectives
+ Objectives
 Analyze overall sales performance
 Identify top-selling products
 Understand customer purchasing behavior
@@ -10,7 +10,7 @@ Analyze country-wise sales distribution
 Study time-based sales trends
 Extract useful business insights from the dataset
 
-📂 Dataset Description
+## Dataset Description
 The dataset contains the following features:
 
 InvoiceNo: Unique number for each transaction
@@ -22,12 +22,12 @@ UnitPrice: Price per unit
 CustomerID: Unique ID for each customer
 Country: Country of the customer
 
-🛠️ Libraries Used
-Pandas 🐼
-Matplotlib 📊
-Seaborn 🎨
+## Libraries Used
+Pandas 
+Matplotlib 
+Seaborn 
 
-📊 Analysis Performed
+## Analysis Performed
 Data loading and cleaning
 Handling missing values
 Exploratory Data Analysis (EDA)
@@ -36,7 +36,7 @@ Top products identification
 Country-wise sales analysis
 Visualization of trends using graphs
 
-📈 Key Insights
+## Key Insights
 Majority of sales come from a few key countries
 Some products contribute significantly to total revenue
 Customer purchasing patterns vary across regions
