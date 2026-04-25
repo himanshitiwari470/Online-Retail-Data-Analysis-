@@ -40,10 +40,7 @@ Visualization of trends using graphs
 Majority of sales come from a few key countries
 Some products contribute significantly to total revenue
 Customer purchasing patterns vary across regions
-Sales trends show variation over time
-🚀 How to Run the Project
-1. Clone the Repository
-git clone https://github.com/your-username/online-retail-analysis.git
+Sales trends show variation over time.
 
 ### 2.Navigate to Project Folder
 - cd online-retail-analysis
